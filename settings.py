@@ -99,7 +99,7 @@ INSTALLED_APPS = (
     
     
     'taggit',
-    'blog',
+    'ex_app',
     
 )
 
